@@ -1,3 +1,4 @@
+
 /*
   QUESTION:
   Write a Java program to check whether a given number is a Prime Number.
