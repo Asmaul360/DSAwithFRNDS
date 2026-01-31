@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📘TCS_NQT_SHEET – Practice Problems
 
 **Note:**
@@ -133,6 +132,3 @@ This repository is designed to help beginners strengthen their DSA basics.
 28. Reverse words in a string
 
 ---
-=======
-
->>>>>>> e7e0e9920c06cc0fcd6f8a1b0ea63cfa6a9ab2b3
