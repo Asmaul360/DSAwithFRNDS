@@ -15,7 +15,7 @@ package maths;
 
 import java.util.Scanner;
 
-public class ArithmeticProgression {
+public class arithmeticProgression {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);
