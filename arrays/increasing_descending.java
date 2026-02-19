@@ -24,6 +24,8 @@ public class increasing_descending {
 
         int arr[] = {10, 40, 30, 20, 50};
 
+        // Used selection sort
+
         // Step 1: Sort array in ascending order
         for(int i = 0; i < arr.length; i++){
             for(int j = i + 1; j < arr.length; j++){
